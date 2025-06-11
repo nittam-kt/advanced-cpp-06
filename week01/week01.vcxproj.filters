@@ -147,6 +147,9 @@
     <ClInclude Include="..\DirectXTex\include\scoped.h">
       <Filter>DirectXTex\include</Filter>
     </ClInclude>
+    <ClInclude Include="classTest.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
