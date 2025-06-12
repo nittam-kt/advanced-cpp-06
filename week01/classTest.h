@@ -4,6 +4,5 @@
 #include <list>
 #include <algorithm>
 
-using namespace std;
 
 

@@ -35,6 +35,9 @@ std::unique_ptr<SpriteBatch> g_spriteBatch;
 std::unique_ptr<SpriteFont>  g_spriteFont;
 std::wstring text[4];
 
+using namespace std;
+
+
 // このコード モジュールに含まれる関数の宣言を転送します:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
